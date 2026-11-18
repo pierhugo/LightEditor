@@ -1,0 +1,29 @@
+Packages/EditorCore/Sources/EditorCore/Render/RawDecoder.swift
+  s_5059b87060b54f::t_68c939ed470590 222-228,230,281-283
+  s_5059b87060b54f::t_6ebb0fba6cfa2f 284-285
+docs/DESIGN.md
+  s_5059b87060b54f::t_4e2cd0e6f4abbf 279
+Packages/EditorCore/Tests/EditorCoreTests/RawFilterReuseTests.swift
+  s_5059b87060b54f::t_4e2cd0e6f4abbf 15-17,49-51,56-71
+  s_5059b87060b54f::t_2b017468691ae9 72-73
+Packages/EditorCore/Sources/EditorCore/Render/DecodeCache.swift
+  s_5059b87060b54f::t_68c939ed470590 101
+docs/spikes/raw9-decode.md
+  s_5059b87060b54f::t_4e2cd0e6f4abbf 40
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "938333401ebd1f72002ce333d669a6f27df3c6c9",
+  "prompts": {},
+  "sessions": {
+    "s_5059b87060b54f": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1ef59-76e9-7620-b888-37d3a57ce3b0",
+        "model": "gpt-6.2-sol"
+      },
+      "human_author": "Pier-Hugo <pierhugocarpentier36@gmail.com>"
+    }
+  }
+}
